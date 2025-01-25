@@ -7,7 +7,11 @@
     <groupId>org.example</groupId>
     <artifactId>inf403</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <packaging>pom</packaging>
     <name>inf403</name>
+    <modules>
+        <module>lab19</module>
+    </modules>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
